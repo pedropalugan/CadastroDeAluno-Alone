@@ -16,15 +16,16 @@
 <hr>
 Firstly we did our wireframe of the project to have an idea of how it was going to be when we were going to do the HTML archive. To do so, we used FIGMA
 
-<h3>Wireframe</h3>
-![image](https://user-images.githubusercontent.com/88800549/153092261-ce4e6c28-51bc-4d6f-9526-39a94542af78.png)
-<br>
-![image](https://user-images.githubusercontent.com/88800549/153092284-4ff97ec7-d45f-4c91-82e1-26e87fe93b8e.png)
-<br>
-![image](https://user-images.githubusercontent.com/88800549/153092432-a820e75f-635e-4998-81a9-e2606378369a.png)
-<br>
-![image](https://user-images.githubusercontent.com/88800549/153092311-d81a2302-7840-4a16-bcc2-46b7ee9c9242.png)
-<br>
-![image](https://user-images.githubusercontent.com/88800549/153092377-fa9f8b17-da30-4a0f-8163-461fdf232d3f.png)
-<br>
-![image](https://user-images.githubusercontent.com/88800549/153092396-346494bb-2d9e-4a21-879c-e79502b01f28.png)
+
+<h3>Button to add a student or another grade</h3>
+![image](https://user-images.githubusercontent.com/88800549/153092611-56fe3679-4c54-4204-b501-2fc6f5890fb2.png)
+
+<h3>Button to delete a student or a grade</h3>
+![image](https://user-images.githubusercontent.com/88800549/153092730-58057f62-f5f4-48be-a105-e01274d58ff6.png)
+
+
+<h3>Button to put in certains order, such as ascending, desceding or alphabetical</h3>
+![image](https://user-images.githubusercontent.com/88800549/153092780-9386bd2f-b408-4e1d-9834-23d6b91018d5.png)
+
+<h3>Button to show the whole class average grade which is written "Média Geral"</h3>
+![image](https://user-images.githubusercontent.com/88800549/153093048-1291fe97-9a30-4ba1-9ad7-6578e9d8e533.png)
