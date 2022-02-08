@@ -46,6 +46,9 @@ Firstly we did our wireframe of the project to have an idea of how it was going 
 
 ## Tecnolgy used
 HTML
+
 CSS
+
 JS
+
 BOOTSTRAP
