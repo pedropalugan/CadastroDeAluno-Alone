@@ -24,7 +24,7 @@ Requisitos:
 	[x] Fields to the student's situation<br>
 	[x] Column to average grade for each student<br>
 	[x] Field to general average grade<br>
-	[x] Buttons to calculate the average<br><br>
+	[x] Buttons to calculate the average<br>
 	[x] Buttons to add collumn (grades)<br>
 	[x] Buttons to add rows (students)<br>
 	[x] Buttons to organize in ascending or descending order<br>
