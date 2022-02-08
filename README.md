@@ -15,10 +15,10 @@
 ## Whate we were supposed to do
 <hr>
 
-Objetivo:
+Objective:
  	Create a platform to put or delete students and grades for this student:
 
-Requisitos:
+Requirements:
 	[x] Fields to complete with the names(min: 1 max: 10)<br>
 	[x] Fields to the grades(min: 1 max: 6)<br>
 	[x] Fields to the student's situation<br>
