@@ -50,10 +50,7 @@ Firstly we did our wireframe of the project to have an idea of how it was going 
 
 ## Tecnolgy used
 <hr>
-HTML
-
-CSS
-
-JS
-
+HTML<br>
+CSS<br>
+JS<br>
 BOOTSTRAP
