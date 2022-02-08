@@ -43,8 +43,13 @@ Firstly we did our wireframe of the project to have an idea of how it was going 
 
 
 <b>Then we started on our JS archive to make our functions work</b>
+<hr>
+
+![image](https://user-images.githubusercontent.com/88800549/153094233-0c69fd22-5ad9-4867-a8ef-9804a5b65332.png)
+
 
 ## Tecnolgy used
+<hr>
 HTML
 
 CSS
