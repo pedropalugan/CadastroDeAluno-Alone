@@ -12,6 +12,25 @@
 </ul>
 
 
+## Whate we were supposed to do
+<hr>
+
+Objetivo:
+ 	Create a platform to put or delete students and grades for this student:
+
+Requisitos:
+	[x] Fields to complete with the names(min: 1 max: 10)<br>
+	[x] Fields to the grades(min: 1 max: 6)<br>
+	[x] Fields to the student's situation<br>
+	[x] Column to average grade for each student<br>
+	[x] Field to general average grade<br>
+	[x] Buttons to calculate the average<br><br>
+	[x] Buttons to add collumn (grades)<br>
+	[x] Buttons to add rows (students)<br>
+	[x] Buttons to organize in ascending or descending order<br>
+	[x] Button to organize in alphabetical order<br>
+	[x] Use a css library
+
 ## How have we done it?
 <hr>
 Firstly we did our wireframe of the project to have an idea of how it was going to be when we were going to do the HTML archive. To do so, we used FIGMA
