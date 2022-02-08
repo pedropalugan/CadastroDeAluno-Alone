@@ -36,3 +36,11 @@ Firstly we did our wireframe of the project to have an idea of how it was going 
 
 ![153093048-1291fe97-9a30-4ba1-9ad7-6578e9d8e533](https://user-images.githubusercontent.com/88800549/153093361-df8d488f-f481-4ab5-a986-e787dab2ccba.png)
 
+
+<b>After this we created our HTML archive with CSS along with bootsrap, in order to have a fast stylization</b>
+
+![image](https://user-images.githubusercontent.com/88800549/153093585-d398283a-919a-47d9-8e77-a7cd4b26fe49.png)
+
+
+<b>Then we started on our JS archive to make our functions work</b>
+
