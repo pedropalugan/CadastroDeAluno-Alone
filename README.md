@@ -78,5 +78,5 @@ BOOTSTRAP
 https://pedropalugan.github.io/CadastroDeAluno-Alone/
 
 <br>
-<h3>Hope you liked</h3>
+<h3>Hope you liked :) </h3>
 
