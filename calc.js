@@ -16,11 +16,13 @@ function verificaMedias(){
     nomes = []
     mediaList = []
     let mediaGeral = 0
+    let media = 0
+
     for(let y = 1; y <= qtdAluno; y = y + 1){
         let resultado = 0
         for(let x = 1; x <= (cellsNumber - 3); x = x + 1){
-            let nota = parseFloat(document.getElementById(`nota${y}${x}`).value)
-            resultado = nota + resultado
+           let nota = parseFloat(document.getElementById(`nota${y}${x}`).value);
+            resultado = nota + resultado;
         }
         let media = resultado/(cellsNumber-3)
         document.getElementById(`media${y}`).innerText = media
@@ -58,17 +60,18 @@ function media_geral(){
 }
 
 // Função para adicionar Aluno
-function adicionar_aluno(){ 
+function adicionar_aluno(){
+    let y = qtdAluno
     if(qtdAluno < 10){
     var table = document.getElementById("table");
     let x = 1;
-    var row = table.insertRow(1);
-    row.insertCell(0).innerHTML = `<input id = "aluno${y}" type="text" class = "form-control" placeholder="Nome"> `;
+    var row = table.insertRow(qtdAluno+1);
+    row.insertCell(0).innerHTML = `<input id = "aluno${y+1}" type="text" class = "form-control" placeholder="Nome"> `;
     for(x; x < cellsNumber - 2; x++){
-        row.insertCell(x).innerHTML  = `<input id = "nota${y}${x}" type="text" class = "form-control" placeholder="Nota ${x}"> `;
+        row.insertCell(x).innerHTML  = `<input id = "nota${y+1}${x}" type="text" class = "form-control" placeholder="Nota ${x}"> `;
     }
-    row.insertCell(x).innerHTML = `<output id = "media${y}"></output> `;
-    row.insertCell(x+1).innerHTML = `<output id = "situacao${y}"></output> `;
+    row.insertCell(x).innerHTML = `<output id = "media${y+1}"></output> `;
+    row.insertCell(x+1).innerHTML = `<output id = "situacao${y+1}"></output> `;
     qtdAluno = qtdAluno + 1
     y = y + 1
 }
@@ -110,12 +113,14 @@ function adicionar_nota(){
         }
     }
 }
-
+//Problema esta aqui!!!!!!!!!!!
 // Função apagar aluno
 function apagar_aluno(){
+    let y = qtdAluno
     if(qtdAluno >= 1){
-    document.getElementById("table").deleteRow(qtdAluno);
+    document.getElementById("table").deleteRow(y);
     qtdAluno = qtdAluno - 1
+    y = y - 1
     }
     else{
         alert("Não tem mais alunos para apagar")
