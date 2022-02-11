@@ -75,7 +75,8 @@ JS<br>
 BOOTSTRAP
 
 ## Site link
-https://pedropalugan.github.io/CadastroDeAluno-Alone/
+
+<a target = "_blank">https://pedropalugan.github.io/CadastroDeAluno-Alone/</a>
 
 <br>
 <h3>Hope you liked :) </h3>
