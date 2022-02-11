@@ -56,7 +56,7 @@ function verificaMedias(){
 
 function media_geral(){
     
-    document.getElementById("Media_Final").innerText = mediaFinal
+    document.getElementById("Media_Final").innerText = "A média geral da turma é " + mediaFinal
 }
 
 // Função para adicionar Aluno
